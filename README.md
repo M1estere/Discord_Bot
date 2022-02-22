@@ -1,2 +1,2 @@
-# Discord_Bot
- Discord bot made with Python
+# Discord Bot
+ My first discord bot made with Python 
